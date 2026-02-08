@@ -1,8 +1,6 @@
 # 👑 King Pizza - A Realeza da Gastronomia Digital
 
-<div align="center">
-  <video src="img/videopizza.mp4" width="100%" controls autoplay loop muted></video>
-</div>
+https://github.com/yamotoz/King-pizza/raw/master/img/videopizza.mp4
 
 ## 💎 Uma Experiência de Luxo em Tempo Recorde
 
